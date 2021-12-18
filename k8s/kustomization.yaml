@@ -7,6 +7,6 @@ resources:
 namespace: goapp
 
 images:
-  - name: goapp
-    newName: goapp
-    newTag: v1
+- name: goapp
+  newName: nobuyoko/argocd
+  newTag: 469854d792ee79e6755eb7353f54e502fc987595
